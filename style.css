@@ -1,0 +1,44 @@
+html,body{
+    background-color: #121212;
+}
+
+.container{
+    width: 1000px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: transparent 0 0 0 3px,rgba(18, 18, 18, .1) 0 6px 20px;
+    box-sizing: border-box;
+    color: #121212;
+    cursor: pointer;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.2rem;
+    outline: none;
+    padding: 1rem 1.2rem;
+    text-decoration: none;
+    transition: box-shadow .2s,-webkit-box-shadow .2s;
+    margin: 50px auto;
+    text-align: center;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+
+video{
+    width: 100%;
+}
+
+
+#myBtn {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: #151515;
+    color: #fff;
+    cursor: pointer;
+}
+
+#myBtn:hover {
+    background: #434242;
+    color: black;
+}
+
